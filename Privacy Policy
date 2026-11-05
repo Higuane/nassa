@@ -1,0 +1,156 @@
+# PRIVACY POLICY
+## Politique de confidentialité
+
+**Dernière mise à jour : 5 novembre 2026**
+
+La présente Politique de confidentialité explique comment le bot Discord collecte, utilise, stocke et protège les informations des utilisateurs et des serveurs sur lesquels il est installé.
+
+En utilisant le bot ou en interagissant avec ses fonctionnalités, vous reconnaissez avoir pris connaissance de cette politique.
+
+---
+
+### 1. Responsable du traitement
+
+Le responsable du traitement des données est le propriétaire et développeur du bot Discord.
+
+Pour toute question concernant la confidentialité ou le traitement de vos données, vous pouvez contacter le propriétaire via le serveur Discord officiel.
+
+### 2. Données collectées
+
+Afin de garantir le bon fonctionnement du bot, certaines informations peuvent être collectées et enregistrées.
+
+**2.1. Informations relatives aux utilisateurs**
+- Identifiant Discord (User ID).
+- Nom d'utilisateur et pseudonyme.
+- Identifiant du serveur sur lequel l'utilisateur intervient.
+- Informations relatives aux rôles et permissions.
+- Historique des commandes exécutées.
+
+**2.2. Informations relatives aux serveurs**
+- Identifiant du serveur Discord (Guild ID).
+- Nom du serveur.
+- Identifiants des salons et des catégories.
+- Identifiants des rôles.
+- Paramètres de configuration du bot.
+
+**2.3. Messages et événements**
+
+Certaines fonctionnalités nécessitent le traitement d'informations relatives aux messages, notamment :
+- Contenu des messages supprimés ou modifiés.
+- Liens présents dans les messages.
+- Pièces jointes et images, lorsque les fonctionnalités de logs les prennent en charge.
+- Informations relatives aux messages supprimés lors de l'utilisation de commandes de nettoyage telles que `+clear`.
+- Informations relatives aux actions de modération.
+
+Ces informations peuvent être enregistrées dans les journaux de modération afin de permettre aux administrateurs de consulter les événements survenus sur leur serveur.
+
+### 3. Finalités du traitement
+
+Les données collectées sont utilisées pour les finalités suivantes :
+
+- Assurer le fonctionnement des commandes.
+- Gérer les paramètres et configurations des serveurs.
+- Permettre la modération et l'administration.
+- Enregistrer les événements dans les systèmes de logs.
+- Conserver une trace des messages supprimés ou modifiés lorsque cette fonctionnalité est activée.
+- Détecter les abus et les utilisations malveillantes.
+- Assurer la sécurité et la stabilité du bot.
+- Diagnostiquer les problèmes techniques.
+
+Les données ne sont pas destinées à être utilisées pour créer des profils publicitaires ou vendre des informations personnelles.
+
+### 4. Stockage et conservation des données
+
+Les données peuvent être conservées dans une base de données ou dans des fichiers utilisés par le bot.
+
+La durée de conservation dépend de la nature des informations et de leur utilité.
+
+Les journaux de modération, les historiques de messages et les fichiers générés par les commandes de nettoyage peuvent être conservés pendant une période définie par la configuration du service.
+
+Les données qui ne sont plus nécessaires doivent être supprimées ou anonymisées, sous réserve des obligations légales applicables.
+
+### 5. Accès aux données
+
+L'accès aux informations est limité aux personnes qui en ont besoin pour assurer le fonctionnement et la gestion du service.
+
+Dans le cadre des fonctionnalités de logs :
+- Les administrateurs autorisés peuvent consulter les journaux de leur serveur.
+- Les modérateurs disposant des permissions nécessaires peuvent accéder aux informations prévues par leur rôle.
+- Le propriétaire du bot peut accéder aux données techniques nécessaires à la maintenance et à la sécurité du service.
+
+Les données d'un serveur ne doivent pas être communiquées à des personnes non autorisées.
+
+### 6. Partage des données
+
+Les données personnelles ne sont ni vendues ni louées à des tiers.
+
+Certaines informations peuvent toutefois transiter par des prestataires techniques indispensables au fonctionnement du bot, notamment :
+- Discord et son infrastructure.
+- Le fournisseur d'hébergement.
+- Le fournisseur de stockage ou de base de données, le cas échéant.
+
+Ces prestataires peuvent traiter certaines informations dans le cadre de leurs services.
+
+### 7. Sécurité des données
+
+Des mesures techniques et organisationnelles raisonnables sont mises en place afin de protéger les informations contre :
+- Les accès non autorisés.
+- La divulgation accidentelle.
+- La modification non autorisée.
+- La perte ou la destruction des données.
+
+Malgré ces précautions, aucun système informatique ne peut garantir une sécurité absolue.
+
+### 8. Droits des utilisateurs
+
+Conformément au Règlement Général sur la Protection des Données (RGPD), les personnes concernées peuvent notamment exercer, selon leur situation, les droits suivants :
+
+- **Droit d'accès :** obtenir des informations sur les données traitées.
+- **Droit de rectification :** demander la correction d'informations inexactes.
+- **Droit à l'effacement :** demander la suppression de leurs données lorsque les conditions légales sont réunies.
+- **Droit à la limitation :** demander la limitation de certains traitements.
+- **Droit d'opposition :** s'opposer à certains traitements lorsque la réglementation le permet.
+- **Droit à la portabilité :** récupérer certaines données dans un format exploitable lorsque les conditions sont réunies.
+
+Pour exercer ces droits, une demande peut être adressée au propriétaire du bot via le serveur Discord officiel.
+
+Une réponse sera apportée dans les délais prévus par la réglementation applicable.
+
+### 9. Données des messages supprimés
+
+Le bot peut enregistrer certaines informations relatives aux messages supprimés afin de permettre aux administrateurs de comprendre les événements survenus sur leur serveur.
+
+Cela peut inclure :
+- Le contenu textuel du message.
+- L'auteur du message.
+- La date de suppression.
+- Les liens présents dans le message.
+- Les pièces jointes associées, si elles sont effectivement enregistrées.
+
+Ces informations sont destinées aux fonctionnalités de journalisation et de modération.
+
+Leur conservation doit être limitée à la durée nécessaire à ces finalités.
+
+### 10. Utilisation de Discord
+
+Le bot fonctionne à travers la plateforme Discord et utilise ses fonctionnalités et son API.
+
+L'utilisation de Discord reste soumise aux propres Conditions d'utilisation et à la Politique de confidentialité de Discord.
+
+Le propriétaire du bot est indépendant de Discord et ne prétend pas être affilié officiellement à la plateforme.
+
+### 11. Modifications de la politique
+
+Cette politique peut être modifiée à tout moment afin de refléter les évolutions du bot, de ses fonctionnalités ou de la réglementation.
+
+La date de dernière mise à jour sera indiquée en haut du document.
+
+Les utilisateurs sont invités à consulter régulièrement cette page.
+
+### 12. Contact
+
+Pour toute question relative à la collecte, au traitement, à la conservation ou à la suppression des données personnelles, veuillez contacter le propriétaire du bot via le serveur Discord officiel.
+
+---
+
+**En utilisant le bot, vous reconnaissez avoir pris connaissance de la présente Politique de confidentialité.**
